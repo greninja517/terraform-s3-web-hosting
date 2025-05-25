@@ -1,5 +1,5 @@
 # terraform-s3-web-hosting
-This repository contains the terraform code that provisions the necessary resources in aws to host a simple static website in S3 Bucket.
+This repository contains the terraform code that provisions the necessary resources in aws to host a simple static website in S3 Bucket with necessary bucket policies for public access.
 
 ## How to RUN ?
 
